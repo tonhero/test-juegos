@@ -4,7 +4,7 @@
 	<title></title>
 </head>
 <body>
-	<form method="POST" action="subido.php">
+	<form method="post" action="subido.php">
 		<div class="form-group">
 			<label >Nombre</label>
 			<input type="text" value="nombre" name="nombre" class="form-control" placeholder="nombre">
